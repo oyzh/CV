@@ -1,0 +1,12 @@
+Author:
+Rob Hess
+
+How to use:
+make
+./track -h
+
+Need:
+OpenCV to process image ande viedo.
+gsl to generate random number
+
+TODO:Sometimes the detected region is wrong, which lead a continue error.
