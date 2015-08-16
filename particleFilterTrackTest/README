@@ -6,7 +6,9 @@ make
 ./track -h
 
 Need:
-OpenCV to process image ande viedo.
-gsl to generate random number
+OpenCV:to process image ande viedo.
+gsl:to generate random number
+
+reference:Color-Based Probabilistic Tracking. P. Perez, C. Hue, J. Vermaak, and M. Gangnet.  ECCV, 2002.
 
 TODO:Sometimes the detected region is wrong, which lead a continue error.
