@@ -1,0 +1,4 @@
+g++ `pkg-config --cflags --libs opencv` GHT.cpp
+from：http://www.business-to-technology.com/generalized-hough-transform/default.html
+wiki:https://en.wikipedia.org/wiki/Generalised_Hough_transform
+
